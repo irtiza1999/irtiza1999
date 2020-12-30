@@ -1,4 +1,4 @@
-### Hi there, I'm Irtiza [website] 🌍🌍
+### Hi there, I'm Irtiza [<img align="left" alt="https://mdirtizahossain.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 ## I'm a Student and Developer!!
 
