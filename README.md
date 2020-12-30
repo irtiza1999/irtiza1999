@@ -5,13 +5,16 @@
 - ✔ I’m currently learning everything 😢
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Hobbies: I love to create new projects and play games.
+  <br />
+  <br />
 
-### Connect with me:
+---
 
-[<img align="left" alt="https://mdirtizahossain.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.linkedin.com/in/md-irtiza-hossain-935a431ba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### GitHub Stats
 
-<br />
+![My github stats](https://github-readme-stats.vercel.app/api?username=irtiza1999&theme=dark&show_icons=true)
+
+---
 
 ### Languages and Tools:
 
@@ -29,15 +32,11 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
 <br />
-<br />
 
----
+### Connect with me:
 
-### GitHub Stats
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=irtiza1999&theme=dark&show_icons=true)
-
-</details>
+[<img align="left" alt="https://mdirtizahossain.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://www.linkedin.com/in/md-irtiza-hossain-935a431ba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://mdirtizahossain.netlify.app/
 [linkedin]: https://www.linkedin.com/in/md-irtiza-hossain-935a431ba/
