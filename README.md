@@ -1,4 +1,4 @@
-### Hi there, I'm Irtiza [<img align="left" alt="https://mdirtizahossain.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+### Hi there, I'm Irtiza [Md. Irtiza Hossain!](https://mdirtizahossain.netlify.app) 👋
 
 ## I'm a Student and Developer!!
 
@@ -12,7 +12,13 @@
 
 ### GitHub Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=irtiza1999&theme=dark&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=irtiza1999&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Irtiza's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza1999&layout=compact&theme=material-palenight" />
+</a>
 
 ---
 
