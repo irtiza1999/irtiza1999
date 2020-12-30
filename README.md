@@ -33,8 +33,7 @@
 
 ---
 
-<details>
-  <summary>GitHub Stats</summary>
+### GitHub Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=irtiza1999&theme=dark&show_icons=true)
 
