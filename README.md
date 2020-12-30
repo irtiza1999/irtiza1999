@@ -1,4 +1,4 @@
-### Hi there, I'm Irtiza [Md. Irtiza Hossain!](https://mdirtizahossain.netlify.app) 👋
+### Hi there, I'm [Md. Irtiza Hossain!](https://mdirtizahossain.netlify.app) 👋
 
 ## I'm a Student and Developer!!
 
