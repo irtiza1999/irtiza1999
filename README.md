@@ -14,7 +14,7 @@
 
 \*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-<a href="(https://github-readme-stats.vercel.app/api?username=irtiza1999)](https://github.com/anuraghazra/github-readme-stats)" alt="Irtiza's github stats" >
+<a href="(https://github-readme-stats.vercel.app/api?username=irtiza1999)]" alt="Irtiza's github stats" >
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
