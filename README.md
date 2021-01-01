@@ -15,6 +15,7 @@
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=irtiza1999&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Irtiza's github stats" />
 
 \*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+<br/>
 <a href="https://github.com/irtiza1999">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza1999&layout=compact&theme=material-palenight" />
 </a>
