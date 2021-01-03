@@ -21,7 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza1999&layout=compact&theme=material-palenight" />
 </a>
 
-[!My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irtiza1999)](https://github.com/irtiza1999)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irtiza1999)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
