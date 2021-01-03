@@ -3,7 +3,7 @@
 ## I'm a Computer Science Student at Brac University and a self taught Developer!!
 
 - ✔ I’m currently learning everything 😢
-- 🥅 2021 Goals: Make 2000+ contribution to github and contribute to Open Source projects 🧨🧨
+- 🥅 2021 Goals: Make 1000+ contribution to github and contribute to Open Source projects 🧨🧨
 - ⚡ Hobbies: I love to create new projects and play games.
   <br />
   <br />
@@ -12,13 +12,16 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=irtiza1999&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Irtiza's github stats" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=irtiza1999&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true)" alt="Irtiza's github stats" />
 
 \*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 <br/>
+
 <a href="https://github.com/irtiza1999">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza1999&layout=compact&theme=material-palenight" />
 </a>
+
+[!My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irtiza1999)](https://github.com/irtiza1999)
 
 ---
 
