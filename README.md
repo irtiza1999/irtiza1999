@@ -12,16 +12,16 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=irtiza1999&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true)" alt="Irtiza's github stats" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=irtiza1999&show_icons=true&include_all_commits=true&theme=buefy&count_private=true)" alt="Irtiza's github stats" />
 
 \*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 <br/>
 
 <a href="https://github.com/irtiza1999">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza1999&layout=compact&theme=material-palenight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza1999&layout=compact&theme=buefy" />
 </a>
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irtiza1999&theme=material-palenight)](https://github.com/irtiza1999)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irtiza1999&theme=buefy)](https://github.com/irtiza1999)
 
 ---
 
