@@ -47,8 +47,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=irtiza1999)
-
 ### Connect with me:
 
 [<img align="left" alt="https://mdirtizahossain.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
