@@ -43,8 +43,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza1999&layout=compact&theme=omni" />
 </a>
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irtiza1999&theme=omni)](https://github.com/irtiza1999)
-
 ---
 
 ### Connect with me:
