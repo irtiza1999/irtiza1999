@@ -3,7 +3,7 @@
 ## I'm a Computer Science Student at Brac University and a self taught Developer!!
 
 - ✔ I’m currently learning everything 😢
-- 🥅 2021 Goals: Make 1000+ contribution to github and contribute to Open Source projects 🧨🧨
+- 🥅 2021 Goals:Contribute to Open Source projects 🧨🧨
 - ⚡ Hobbies: I love to create new projects and play games.
   <br />
   <br />
