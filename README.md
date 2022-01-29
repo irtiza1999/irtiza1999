@@ -1,6 +1,6 @@
 ### Hi there, I'm [Md. Irtiza Hossain!](https://mdirtizahossain.netlify.app) 👋
 
-## I'm a Computer Science Student at Brac University and a self taught Developer!!
+## I'm a Computer Science Student at Brac University [image](https://user-images.githubusercontent.com/73892941/151667081-fe451d7f-f23f-40d9-bc90-de9e3f8842f3.png)
 
 - ✔ I’m currently learning everything 😢
 - 🥅 2022 Goals: Contribute to Open Source projects 🧨🧨
