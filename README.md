@@ -4,7 +4,6 @@
 
 - ✔ I’m currently learning everything 😢
 - 🥅 2022 Goals: Contribute to Open Source projects 🧨🧨
-- ⚡ Hobbies: I love to create new projects and play games.
   <br />
   <br />
 
