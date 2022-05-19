@@ -3,9 +3,6 @@
 ## I'm a Computer Science Student at Brac University 📚📚
 
 - ✔ I’m currently learning everything 😢
-  <br />
-  <br />
-
 ---
 
 ### Languages and Tools:
