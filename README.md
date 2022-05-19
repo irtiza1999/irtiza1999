@@ -3,7 +3,6 @@
 ## I'm a Computer Science Student at Brac University 📚📚
 
 - ✔ I’m currently learning everything 😢
-- 🥅 2022 Goals: Contribute to Open Source projects 🧨🧨
   <br />
   <br />
 
