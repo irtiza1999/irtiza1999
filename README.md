@@ -48,7 +48,7 @@
 [<img align="left" alt="https://www.linkedin.com/in/md-irtiza-hossain-935a431ba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://mdirtizahossain.netlify.app/
-[linkedin]: https://www.linkedin.com/in/md-irtiza-hossain-935a431ba/
+[linkedin]: https://www.linkedin.com/in/md-irtiza-hossain/
 [vscode]: https://code.visualstudio.com/
 [html5]: https://html.com/
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
