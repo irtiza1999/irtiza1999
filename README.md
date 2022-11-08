@@ -45,7 +45,7 @@
 ### Connect with me:
 
 [<img align="left" alt="https://mdirtizahossain.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.linkedin.com/in/md-irtiza-hossain/" | LinkedIn" width="22px" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" />][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/md-irtiza-hossain/ | LinkedIn" width="22px" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" />][linkedin]
 
 [website]: https://mdirtizahossain.netlify.app/
 [linkedin]: https://www.linkedin.com/in/md-irtiza-hossain/
