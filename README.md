@@ -24,6 +24,8 @@
 [<img align="left" alt="Mongoose" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />][mongoose]
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tensorflow]
+[<img align="left" alt="sharepoint" width="26px" src="https://avatars.githubusercontent.com/u/19156602?s=48&v=4" />][sharepoint]
+[<img align="left" alt="powerautomate" width="26px" src="https://www.paitgroup.com/hs-fs/hubfs/Power-Automate-22.png" />][powerautomate]
 <br />
 <br />
 
@@ -69,3 +71,6 @@
 [cp]: https://www.cprogramming.com
 [tensorflow]: https://github.com/topics/tensorflow
 [php]: https://www.php.net
+[sharepoint]: https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration
+[powerautomate]: https://www.microsoft.com/en-us/power-platform/products/power-automate
+[powerapps]: https://www.microsoft.com/en-us/power-platform/products/power-apps
