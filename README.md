@@ -25,7 +25,8 @@
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tensorflow]
 [<img align="left" alt="sharepoint" width="26px" src="https://avatars.githubusercontent.com/u/19156602?s=48&v=4" />][sharepoint]
-[<img align="left" alt="powerautomate" width="26px" src="https://www.paitgroup.com/hs-fs/hubfs/Power-Automate-22.png" />][powerautomate]
+[<img align="left" alt="powerautomate" width="26px" width="10px" src="https://repository-images.githubusercontent.com/292601183/e4797e00-ff2d-11ea-9c66-f3070f04174e" />][powerautomate]
+[<img align="left" alt="powerapps" width="26px" width="10px" src="https://www.paitgroup.com/hs-fs/hubfs/Power-Automate-22.png" />][powerapps]
 <br />
 <br />
 
