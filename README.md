@@ -27,7 +27,6 @@
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tensorflow]
 [<img align="left" alt="sharepoint" width="26px" src="https://avatars.githubusercontent.com/u/19156602?s=48&v=4" />][sharepoint]
 [<img align="left" alt="powerautomate" width="26px" height="22px" src="https://repository-images.githubusercontent.com/292601183/e4797e00-ff2d-11ea-9c66-f3070f04174e" />][powerautomate]
-<br />
 [<img align="left" alt="powerapps" width="26px" height="22px" src="https://yt3.googleusercontent.com/ytc/AIf8zZS-dJizg_O__3w-r0iqPGXzclwTBCjXLWp8hT0W=s900-c-k-c0x00ffffff-no-rj" />][powerapps]
 <br />
 <br />
