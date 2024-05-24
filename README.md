@@ -1,7 +1,5 @@
 ### Hi there, I'm [Md. Irtiza Hossain!](https://mdirtizahossain.netlify.app) 👋
 
-## I'm a Computer Science Student at Brac University 📚📚
-
 - ✔ I’m currently learning everything 😢
 ---
 
