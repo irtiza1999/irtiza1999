@@ -1,78 +1,21 @@
-### Hi there, I'm [Md. Irtiza Hossain!](https://mdirtizahossain.netlify.app) 👋
+# 💫 About Me:
+I’m currently learning everything
 
-- ✔ I’m currently learning everything 😢
----
 
-### Languages and Tools:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-irtiza-hossain) 
 
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][cp]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=irtiza1999&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=irtiza1999&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza1999&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>][php]
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][expressjs]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
-[<img align="left" alt="Mongoose" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />][mongoose]
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
-[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tensorflow]
-[<img align="left" alt="sharepoint" width="26px" src="https://avatars.githubusercontent.com/u/19156602?s=48&v=4" />][sharepoint]
-[<img align="left" alt="powerautomate" width="26px" height="22px" src="https://repository-images.githubusercontent.com/292601183/e4797e00-ff2d-11ea-9c66-f3070f04174e" />][powerautomate]
-<br />
-[<img align="left" alt="powerapps" width="26px" height="22px" src="https://yt3.googleusercontent.com/ytc/AIf8zZS-dJizg_O__3w-r0iqPGXzclwTBCjXLWp8hT0W=s900-c-k-c0x00ffffff-no-rj" />][powerapps]
-<br />
-<br />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=irtiza1999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=irtiza1999&show_icons=true&include_all_commits=true&theme=omni&count_private=true)" alt="Irtiza's github stats" />
-
-\*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most for coding.
-<br/>
-
-<a href="https://github.com/irtiza1999">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza1999&layout=compact&theme=omni" />
-</a>
-
----
-
-### Connect with me:
-
-[<img align="left" alt="https://mdirtizahossain.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.linkedin.com/in/md-irtiza-hossain/ | LinkedIn" width="22px" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" />][linkedin]
-
-[website]: https://mdirtizahossain.netlify.app/
-[linkedin]: https://www.linkedin.com/in/md-irtiza-hossain/
-[vscode]: https://code.visualstudio.com/
-[html5]: https://html.com/
-[css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[sass]: https://sass-lang.com/
-[js]: https://www.javascript.com/
-[react]: https://reactjs.org/
-[graphql]: https://graphql.org/
-[nodejs]: https://nodejs.org/en/
-[mongo]: https://www.mongodb.com/
-[git]: https://git-scm.com/
-[github]: https://github.com
-[terminal]: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
-[redux]: https://redux.js.org
-[firebase]: https://firebase.google.com
-[mongoose]: https://mongoosejs.com
-[python]: https://www.python.org
-[expressjs]: http://expressjs.com
-[cp]: https://www.cprogramming.com
-[tensorflow]: https://github.com/topics/tensorflow
-[php]: https://www.php.net
-[sharepoint]: https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration
-[powerautomate]: https://www.microsoft.com/en-us/power-platform/products/power-automate
-[powerapps]: https://www.microsoft.com/en-us/power-platform/products/power-apps
-[sql]:https://www.mysql.com/
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
